@@ -48,22 +48,28 @@ Declare uma função chamada evens_and_odds. Ela recebe um número inteiro posit
 Chame sua função factorial, ela recebe um número inteiro como parâmetro e retorna o fatorial do número
 
 Chame sua função is_empty, ela recebe um parâmetro e verifica se ele está vazio ou não
-Escreva diferentes funções que recebem listas. Elas devem calculate_mean, calculate_median, calculate_mode, calculate_range, calculate_variance, calculate_std (desvio padrão).
+
+Escreva diferentes funções que recebem listas. Elas devem
+calculate_mean, calculate_median, calculate_mode, calculate_range, calculate_variance, calculate_std (desvio padrão).
+
 Escreva uma função chamada greet que recebe um argumento padrão, name. Se nenhum argumento for fornecido, ela deve imprimir "Hello, Guest!", caso contrário deve saudar a pessoa pelo nome.
     greet()
     # "Hello, Guest!
     greet("Alice")
     # "Hello, Alice!"
+    
 Crie uma função chamada show_args para receber um número arbitrário de argumentos nomeados e imprimir seus nomes e valores.
 show_args(name="Alice", age=30, city="New York")
 # Received: name: Alice, age: 30, city: New York
 show_args(name="Bob", pet="Fluffy, the bunny")
 # Received: name: Bob, pet: Fluffy, the bunny
+
 Exercícios: Nível 3
 Escreva uma função chamada is_prime, que verifica se um número é primo.
 Escreva uma função que verifica se todos os itens são únicos na lista.
 Escreva uma função que verifica se todos os itens da lista são do mesmo tipo de dado.
 Escreva uma função que verifica se a variável fornecida é uma variável Python válida
+
 Vá até a pasta data e acesse o arquivo countries-data.py.
 Crie uma função chamada most_spoken_languages no mundo. Ela deve retornar as 10 ou 20 línguas mais faladas no mundo em ordem decrescente
 Crie uma função chamada most_populated_countries. Ela deve retornar os 10 ou 20 países mais populosos em ordem decrescente.
