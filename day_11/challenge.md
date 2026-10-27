@@ -46,6 +46,7 @@ Declare uma função chamada evens_and_odds. Ela recebe um número inteiro posit
     # The number of odds are 50.
     # The number of evens are 51.
 Chame sua função factorial, ela recebe um número inteiro como parâmetro e retorna o fatorial do número
+
 Chame sua função is_empty, ela recebe um parâmetro e verifica se ele está vazio ou não
 Escreva diferentes funções que recebem listas. Elas devem calculate_mean, calculate_median, calculate_mode, calculate_range, calculate_variance, calculate_std (desvio padrão).
 Escreva uma função chamada greet que recebe um argumento padrão, name. Se nenhum argumento for fornecido, ela deve imprimir "Hello, Guest!", caso contrário deve saudar a pessoa pelo nome.
