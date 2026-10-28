@@ -1,5 +1,4 @@
-import string 
-import random
+import random, string
 
 def random_user_id():
     caracteres_validos = string.ascii_letters + string.digits
