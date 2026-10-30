@@ -3,13 +3,6 @@ countries = ['Estonia', 'Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-
-
-
-Declare uma função chamada get_string_lists que recebe uma lista como parâmetro e retorna uma lista contendo apenas os itens do tipo string.
-
-Use reduce para somar todos os números na lista numbers.
-
 Use reduce para concatenar todos os países e produzir esta frase: Estonia, Finland, Sweden, Denmark, 
 Norway, and Iceland are north European countries
 
