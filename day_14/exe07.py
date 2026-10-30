@@ -201,5 +201,9 @@ def get_first_ten_countries(lista):
 
     return new_list
 
-print(get_first_ten_countries(countries))
+def get_last_ten_countries(lista):
+    new_list = lista[-11:]
+    return new_list
 
+print(get_first_ten_countries(countries))
+print(get_last_ten_countries(countries))
