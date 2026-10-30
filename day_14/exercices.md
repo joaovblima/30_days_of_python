@@ -3,43 +3,8 @@ countries = ['Estonia', 'Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-Exercícios: Nível 1
 
-Explique a diferença entre map, filter e reduce.
-map -> é uma função que aplica outra função em uma lista ou um número que você passsa
-filter -> filtra e retorna um valor booleano em cima de um valor ou lista que você passa
-reduce -> reduz dois numeros ou vários parametros a um só numero, pode ser uma soma, subtração ou multiplicação, a ideia é passar o parametro e reduzir a um. 
 
-Explique a diferença entre função de ordem superior, closure e decorador. 
-funcao de ordem superior -> é uma função que faz o uso de outras funções. 
-closures -> permite uma função aninhada executar em uma função externa
-decorador -> é um padrão de projeto 
-
-Defina uma função de chamada antes de map, filter ou reduce, veja os exemplos.
-
-Use for para imprimir cada país na lista countries.
-
-Use for para imprimir cada nome na lista names.
-
-Use for para imprimir cada número na lista numbers.
-
-Exercícios: Nível 2
-
-Use map para criar uma nova lista transformando cada país em maiúsculas na lista countries
-
-Use map para criar uma nova lista transformando cada número em seu quadrado na lista numbers
-
-Use map para transformar cada nome em maiúsculas na lista names
-
-Use filter para filtrar países que contenham 'land'.
-
-Use filter para filtrar países que tenham exatamente seis caracteres.
-
-Use filter para filtrar países que contenham seis letras ou mais na lista de países.
-
-Use filter para filtrar países que comecem com 'E'
-
-Encadeie dois ou mais iteradores de lista (ex.: arr.map(callback).filter(callback).reduce(callback))
 
 Declare uma função chamada get_string_lists que recebe uma lista como parâmetro e retorna uma lista contendo apenas os itens do tipo string.
 
