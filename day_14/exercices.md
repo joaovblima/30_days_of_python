@@ -3,8 +3,7 @@ countries = ['Estonia', 'Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-Use reduce para concatenar todos os países e produzir esta frase: Estonia, Finland, Sweden, Denmark, 
-Norway, and Iceland are north European countries
+
 
 Declare uma função chamada categorize_countries que retorna uma lista de países com algum padrão em comum (você pode encontrar a lista de países neste repositório como countries.js (ex: 'land', 'ia', 'island', 'stan')).
 
